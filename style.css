@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+h1{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight:  bold;
+
+}
+h2{
+    font: bold 14px  sans-serif;
+}
+
+header,section,footer,aside,nav ,article {
+ border: 1px solid black;
+ display: block;
+}
+
+body{
+    text-align: center;
+}
+
+.agrupar{
+    width: 950px;
+    background: gray;
+    border: 1px solid black;
+    margin: 15px auto;
+    padding: 100px;
+}
+.cabecera{
+    background: red;
+    border: 1px solid gray;
+    padding: 20px;
+    
+}
+.cabecera h1{
+    text-align: left;
+}
+.menu{
+    background: gold;
+    padding: 15px auto;
+    text-align: left;
+}
+
+.menu li{
+    list-style: nome;
+    list-style-type: none;
+    padding: 5px;
+    font: bold 14px  verdana;
+    display: inline-block;
+    
+}
+.seccion{
+    border: 1px solid  black;
+   background: #7a26e3;
+   margin: 20px;
+}
