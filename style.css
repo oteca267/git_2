@@ -3,9 +3,6 @@
     padding: 0px;
 }
 
-/*prueba de editor*/
-
-
 h1{
     font-size: 20px;
     font-family: sans-serif;
@@ -32,6 +29,7 @@ body{
     margin: 15px auto;
     padding: 100px;
 }
+
 .cabecera{
     background: red;
     border: 1px solid gray;
