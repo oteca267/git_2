@@ -14,7 +14,7 @@ h2{
 }
 
 header,section,footer,aside,nav ,article {
- border: 1px solid black;
+ 
  display: block;
 }
 
@@ -55,6 +55,6 @@ body{
 }
 .seccion{
     border: 1px solid  black;
-   background: #7a26e3;
-   margin: 20px;
+   width: 600px;
+   
 }
